@@ -2,8 +2,8 @@
 
     @FileName: MCSManager 9 二次元主题设置文件
     @SkinName: 绪山美波里
-    @Last Date: 2025.3.9
-    @Create Date: 2025.7.6		
+    @Last Date: 2025.9.27
+    @Create Date: 2025.3.9
     @Author: RainSky
     @Description：在这里设置你的主题背景图片、颜色等
 
@@ -37,9 +37,9 @@
 	/*手机端首页背景图*/
 
 	/*终端*/
-	--terminal-full-bg: linear-gradient(135deg, rgba(0, 0, 0, 0.7), rgba(48, 48, 48, 0.5) 100%), url(//api.imlazy.ink/img/);
+	--terminal-full-bg: linear-gradient(135deg, rgba(0, 0, 0, 0.7), rgba(48, 48, 48, 0.5) 100%), url(https://img.fastmirror.net/s/2025/09/27/68d7395ab465e.jpg);
 	/*全屏终端下的背景样式*/
-	--terminal-full-bg-phone: linear-gradient(135deg, rgba(0, 0, 0, 0.5) 0%, rgba(28, 103, 146, 0.7) 100%), url(//api.imlazy.ink/img-phone/);
+	--terminal-full-bg-phone: linear-gradient(135deg, rgba(0, 0, 0, 0.5) 0%, rgba(28, 103, 146, 0.7) 100%), url(https://img.fastmirror.net/s/2025/09/27/68d73c93e2c8f.jpg);
 	/*手机全屏终端下的背景样式*/
 
 	--terminal-backdrop-filter: blur(4px);

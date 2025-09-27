@@ -2,15 +2,57 @@
 <h1>MCSManager Onimai 10</h1>
 <br>
 <h1>Introduction</h1>
-<p>Last updated: September 20, 2025</p>
+<p>Last updated: September 27, 2025</p>
 <br>
 
-[English](README.md) - [Simplified Chinese](README_ZH.md) - [Traditional Chinese](README_TW.md) - [Japanese](README_JP.md)
+[English](README.md) - [简体中文](README_ZH.md) - [繁體中文](README_TW.md) - [日本語](README_JP.md)
 
 <br>
-<p>Yes, this is the source code for a third-party MCSM theme.</p>
-<p>This is a third-party theme developed by the author, skymc, and is not an official theme.</p>
-<p>You can use it for your own creations, but please do not integrate it with my projects.</p>
+<p>Yes, this is an open-source third-party anime theme for MCSM.</p>
+<p>This is a third-party theme developed by the author skymc, not an official theme.</p>
+<p>You can use it for your own creations, but please do not use it to connect with my projects.</p>
 <br>
-<h1>Update Log</h1>
-<p>Since MCSM has been updated to 10, this update was made after testing and confirming compatibility.</p>
+<h1>Changelog</h1>
+<p>·Change the terminal background to a custom remote image hosting image.</p>
+<p>·Change the website title to MCSManager Onimai 10 Panel</p>
+<p>·Change the Site Icon</p>
+<h1>↓Preview Image↓</h1>
+<p>Note: If you are overseas, you can use chatgpt and other AI translation images for your convenience!</p>
+<h1>Login (Mahiro Oyama)</h1>
+<br>
+<img width="1920" height="1080" alt="1" src="images/mahiro-pc-login.jpg" />
+<br>
+<img width="1920" height="1080" alt="2" src="images/mahiro-phone-login.jpg" />
+<br>
+<h1>Homepage (Mahiro Oyama)</h1>
+<br>
+<img width="1920" height="1080" alt="3" src="images/mahiro-pc.jpg" />
+<br>
+<img width="1920" height="1080" alt="4" src="images/mahiro-phone.jpg" />
+<br>
+<h1>Terminal (Mahiro Oyama)</h1>
+<br>
+<img width="1920" height="1080" alt="5" src="images/mahiro-pc-terminal.jpg" />
+<br>
+<img width="1920" height="1080" alt="6" src="images/mahiro-phone-terminal.jpg" />
+<br>
+<h1>Login (Mihali Oyama)</h1>
+<br>
+<img width="1920" height="1080" alt="7" src="images/mihali-pc-login.jpg" />
+<br>
+<img width="1920" height="1080" alt="8" src="images/mihali-phone-login.jpg" />
+<br>
+<h1>Homepage (Oyama Mihari)</h1>
+<br>
+<img width="1920" height="1080" alt="9" src="images/mihali-pc.jpg" />
+<br>
+<img width="1920" height="1080" alt="10" src="images/mihali-phone.jpg" />
+<br>
+<h1>Terminal (Oyama Mihari)</h1>
+<br>
+<img width="1920" height="1080" alt="11" src="images/mihali-pc-terminal.jpg" />
+<br>
+<img width="1920" height="1080" alt="12" src="images/mihali-phone-terminal.jpg" />
+<br>
+<h1>Disclaimer (Open Source)</h1>
+<p>This theme was developed with permission from Lazy. Please support the original version!</p>
