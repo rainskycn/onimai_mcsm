@@ -2,7 +2,7 @@
 <h1>MCSManager Onimai 10</h1>
 <br>
 <h1>介紹</h1>
-<p>最後更新時間: 2025年9月27日</p>
+<p>最後更新時間: 2025年11月08日</p>
 <br>
 
 [English](README.md) - [简体中文](README_ZH.md) - [繁體中文](README_TW.md) - [日本語](README_JP.md)
@@ -13,9 +13,7 @@
 <p>你可以拿去二創，但不要拿來對接我的專案</p>
 <br>
 <h1>更新日誌</h1>
-<p>·篡改終端機背景，改為自訂遠端圖床圖片</p>
-<p>·更改網站標題為MCSManager Onimai 10 Panel</p>
-<p>·更改網站圖示</p>
+<p>·徹底支援MCSManager Panel 10，解決用戶資料回傳空值問題</p>
 <h1>↓預覽展示圖↓</h1>
 <p>注意: 如果你是海外人員，你可以使用chatgpt等ai翻譯圖片給你以方便使用！</p>
 <h1>登入（緒山真尋）</h1>

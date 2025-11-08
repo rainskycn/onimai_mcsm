@@ -2,7 +2,7 @@
 <h1>MCSManager Onimai 10</h1>
 <br>
 <h1>Introduction</h1>
-<p>Last updated: September 27, 2025</p>
+<p>Last updated: November 8, 2025</p>
 <br>
 
 [English](README.md) - [简体中文](README_ZH.md) - [繁體中文](README_TW.md) - [日本語](README_JP.md)
@@ -13,9 +13,7 @@
 <p>You can use it for your own creations, but please do not use it to connect with my projects.</p>
 <br>
 <h1>Changelog</h1>
-<p>·Change the terminal background to a custom remote image hosting image.</p>
-<p>·Change the website title to MCSManager Onimai 10 Panel</p>
-<p>·Change the Site Icon</p>
+<p>·Fully supports MCSManager Panel 10, resolving the issue of null values ​​being returned for user data.</p>
 <h1>↓Preview Image↓</h1>
 <p>Note: If you are overseas, you can use chatgpt and other AI translation images for your convenience!</p>
 <h1>Login (Mahiro Oyama)</h1>
