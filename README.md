@@ -6,9 +6,9 @@
 <h1>Introduction</h1>
 
 <p>Last updated: March 7, 2026</p>
-
 <br>
-[English](README.md) - [Simplified Chinese](README_ZH.md) - [Traditional Chinese](README_TW.md) - [Japanese](README_JP.md)
+
+[English](README.md) - [简体中文](README_ZH.md) - [繁體中文](README_TW.md) - [日本語](README_JP.md)
 
 <br>
 <p>Yes, this is an open-source third-party MCSM theme for anime and manga.</p>
@@ -19,8 +19,8 @@
 
 <br>
 <h1>Update Log</h1>
-
 <br>
+
 ·Supports MCSM 9/10. For versions below MCSM (v9.9.0), please directly extract and download (click to download) the [MCSM9 Old Version](oldversions/onimai-mcsm9-oldbuild-oldversion.zip) file in the oldversions folder.
 
 <br>
@@ -49,7 +49,7 @@
 <h1>Terminal (Mahiro Oyama)</h1>
 
 <br>
-<img <img width="1920" height="1080" alt="5" src="images/mahiro-pc-terminal.jpg" />
+<img width="1920" height="1080" alt="5" src="images/mahiro-pc-terminal.jpg" />
 
 <br>
 <img width="1920" height="1080" alt="6" src="images/mahiro-phone-terminal.jpg" />

@@ -6,9 +6,9 @@
 <h1>はじめに</h1>
 
 <p>最終更新日: 2026年3月7日</p>
-
 <br>
-[英語](README.md) - [中国語(簡体字)](README_ZH.md) - [中国語(繁体字)](README_TW.md) - [日本語](README_JP.md)
+
+[English](README.md) - [简体中文](README_ZH.md) - [繁體中文](README_TW.md) - [日本語](README_JP.md)
 
 <br>
 <p>はい、これはアニメ・マンガ用のオープンソースのサードパーティ製MCSMテーマです。</p>
@@ -19,8 +19,8 @@
 
 <br>
 <h1>アップデートログ</h1>
-
 <br>
+
 ·MCSM 9/10 をサポートしています。MCSM (v9.9.0) より前のバージョンをご利用の場合は、oldversions フォルダ内の [MCSM9 旧バージョン](oldversions/onimai-mcsm9-oldbuild-oldversion.zip) ファイルを直接解凍してダウンロードしてください (クリックしてダウンロード)。
 
 <br>
@@ -49,7 +49,7 @@
 <h1>端末（小山真尋）</h1>
 
 <br>
-<img <img width="1920" height="1080" alt="5" src="images/mahiro-pc-terminal.jpg" />
+<img width="1920" height="1080" alt="5" src="images/mahiro-pc-terminal.jpg" />
 
 <br>
 <img width="1920" height="1080" alt="6" src="images/mahiro-phone-terminal.jpg" />

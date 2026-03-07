@@ -5,7 +5,7 @@
 <p>最後更新時間: 2026年03月07日</p>
 <br>
 
-[English](README.md) - [簡體中文](README_ZH.md) - [繁體中文](README_TW.md) - [日本語](README_JP.md)
+[English](README.md) - [简体中文](README_ZH.md) - [繁體中文](README_TW.md) - [日本語](README_JP.md)
 
 <br>
 <p>沒錯，這是一個開源的MCSM第三方二次元主題</p>
