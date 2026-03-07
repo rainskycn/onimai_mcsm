@@ -15,7 +15,7 @@
 <h1>更新日志</h1>
 <br>
 
-·支持mcsm9/10版本，mcsm以下版本（v9.9.0）请直接提取&下载（点击可直接下载）oldversions文件夹里面的 [MCSM9老版本](oldversions/onimai-mcsm9-oldbuild-oldversion.zip) 即可
+·支持mcsm9/10版本，mcsm以下版本（v9.9.0）请直接提取oldversions文件夹里面的 [MCSM9老版本](oldversions/onimai-mcsm9-oldbuild-oldversion.zip) 即可
 
 <br>
 <h1>↓预览展示图↓</h1>

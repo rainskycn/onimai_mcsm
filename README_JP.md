@@ -21,7 +21,7 @@
 <h1>アップデートログ</h1>
 <br>
 
-·MCSM 9/10 をサポートしています。MCSM (v9.9.0) より前のバージョンをご利用の場合は、oldversions フォルダ内の [MCSM9 旧バージョン](oldversions/onimai-mcsm9-oldbuild-oldversion.zip) ファイルを直接解凍してダウンロードしてください (クリックしてダウンロード)。
+• MCSM 9/10 をサポートします。MCSM v9.9.0 より前のバージョンの場合は、oldversions フォルダから [MCSM9 旧バージョン](oldversions/onimai-mcsm9-oldbuild-oldversion.zip) ファイルを展開してください。
 
 <br>
 <h1>↓プレビュー画像↓</h1>
