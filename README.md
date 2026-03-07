@@ -21,7 +21,7 @@
 <h1>Update Log</h1>
 <br>
 
-• Supports MCSM 9/10. For versions of MCSM below v9.9.0, simply extract the [MCSM9 Old Version](oldversions/onimai-mcsm9-oldbuild-oldversion.zip) file from the oldversions folder.
+• Supports MCSSM 9/10. For versions below MCSSM 10 (v9.9.0), simply extract the [MCSM9 Old Version](oldversions/onimai-mcsm9-oldbuild-oldversion.zip) file from the oldversions folder.
 
 <br>
 <h1>↓Preview Images↓</h1>
